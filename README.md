@@ -25,3 +25,4 @@ I had a great time creating this project and it was interesting to see how diffe
 Feel free to check out my PowerBI dashboard and let me know if you have any questions or feedback.
 #dataanalysis #datavisualization #COVID19 #OurWorldinData #PowerBI #dashboard #data #publichealth #datastorytelling
 
+Data Source Link : https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&time=2020-03-01..latest&facet=none&country=USA~GBR~CAN~DEU~ITA~IND&pickerSort=asc&pickerMetric=location&Interval=7-day+rolling+average&Relative+to+Population=true&Color+by+test+positivity=false&Metric=Confirmed+cases
