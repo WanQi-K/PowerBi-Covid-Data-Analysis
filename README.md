@@ -1,4 +1,5 @@
-# super-octo-fishstick
+# PowerBi-Covid-Data-Analysis
+
 PowerBi - Worldwide Covid-19 Data Analysis
 
 Happy Monday everyone, I hope you all had a great weekend!
